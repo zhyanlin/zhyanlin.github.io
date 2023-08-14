@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate at McGill University supervised by Prof. [Mathieu Blanchette](https://en.wikipedia.org/wiki/Mathieu_Blanchette_(computational_biologist)). I will join Data Science and Analytics Thrust at the Hong Kong University of Science and Technology (Guangzhou) as an assistant professor. I received my bachelor's degree from the City University of Hong Kong. Prior to studying McGill University, I worked as an research assistant (intern) at Indiana University, and the City University of Hong Kong. For more information, please check my CV.
+I am currently a Ph.D. candidate at McGill University supervised by Prof. [Mathieu Blanchette](https://en.wikipedia.org/wiki/Mathieu_Blanchette_(computational_biologist)). I will join Data Science and Analytics Thrust at the Hong Kong University of Science and Technology (Guangzhou) as an assistant professor. I received my bachelor's degree from the City University of Hong Kong. Prior to studying at McGill University, I worked as a research assistant (intern) at Indiana University, and the City University of Hong Kong. For more information, please check my CV.
 
 Research
 ======
