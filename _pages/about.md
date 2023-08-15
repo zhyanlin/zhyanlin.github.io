@@ -24,3 +24,25 @@ My research focuses on developing and applying computational methods (i.e., algo
 1. Developing deep learning and statistical inference approaches to analyze and comprehend 3D genome organization.
 2. Developing and tailoring representation learning algorithms to analyze biological data sets.
 3. Developing and applying computational tools to analyze omics data (i.e., population genetics, cancer genomics, and MS/MS proteomics).
+
+Selected Publications
+======
+* Zhang, Yanlin, and Mathieu Blanchette. "Reference panel guided topological structure annotation of Hi-C data." Nature Communications 13.1 (2022): 7426.
+* Zhang, Yanlin, and Mathieu Blanchette. "Reference panel-guided super-resolution inference of Hi-C data." Bioinformatics 39.Supplement_1 (2023): i386-i393. (ISMB/ECCB 2023 proceedings; Accept. rate=14%)
+* Zhang, Zhe, et al. "The Tibetan-Yi region is both a corridor and a barrier for human gene flow." Cell Reports 39.4 (2022). (co-first author, cover article)
+
+Teaching
+======
+* Course Lecturer: COMP462/561, Computational Biology Methods and Research, McGill U. Fall 2021
+* Teaching assistant: COMP 462/561, Computational Biology Methods and Research, McGill U. Fall 2020
+* Head teaching assistant: COMP 551, Applied Machine Learning, MCGILL U. Winter 2020
+
+Scholarships & Awards
+======
+2020, FRQNT Doctoral Scholarship, Quebec\
+2018, Grad Excellence Award in Computer Science, McGill, Quebec\
+2017, Grad Excellence Award in Quantitative Life Sciences, McGill, Quebec\
+2016, Outstanding Academic Papers by Students, CityU, Hong Kong S.A.R.\
+2015, Hong Kong government scholarship, Hong Kong S.A.R.\
+2013, Chan Wing Fui Scholarship, CityU, Hong Kong S.A.R.\
+2010, University Entrance Scholarship, CityU, Hong Kong S.A.R.
