@@ -36,9 +36,9 @@ Selected Publications
 
 Teaching
 ======
-* Course Lecturer: COMP462/561, Computational Biology Methods and Research, McGill U. Fall 2021
-* Teaching assistant: COMP 462/561, Computational Biology Methods and Research, McGill U. Fall 2020
-* Head teaching assistant: COMP 551, Applied Machine Learning, MCGILL U. Winter 2020
+* Course Lecturer: COMP462/561, Computational Biology Methods and Research, McGill U. Fall 2021 [~110 students]
+* Teaching assistant: COMP 462/561, Computational Biology Methods and Research, McGill U. Fall 2020 [~120 students]
+* Head teaching assistant: COMP 551, Applied Machine Learning, MCGILL U. Winter 2020 [395 students]
 
 Scholarships & Awards
 ======
