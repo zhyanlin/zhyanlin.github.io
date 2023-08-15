@@ -12,9 +12,12 @@ I am currently a Ph.D. candidate at McGill University supervised by Prof. [Mathi
 
 <span style="color:red"> Openings: I have multiple [fully-funded](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) Ph.D. positions (Spring/Fall) and research assistant/intern positions available at HKUST(GZ). </span> In particular, I am looking for students who are interested in computational biology and machine learning to work in the following directions:
 * Computational 3D genomics
-* Physics-informed GNN for 3D genome modelling
+* Data integration via multi-modal learning
 * Interpretable machine learning for (epi)genome data analysis
 * Representation learning approaches in biological data analysis
+
+If you have a degree in physics or similar programs and want to do research in computational biology and machine learning, you can also contact me to discuss possible options in the following directions:
+* 3D genome modeling (i.e., Physics-informed GNN for 3D genome modeling, etc.)
 
 Please contact me by email with your CV, transcripts, publications (if any),  motivation letter (required for shortlisted Ph.D. applicants), and research proposal (optional).
 
