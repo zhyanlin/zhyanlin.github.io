@@ -16,7 +16,7 @@ I am currently a Ph.D. candidate at McGill University supervised by Prof. [Mathi
 * Interpretable machine learning for (epi)genome data analysis
 * Representation learning approaches in biological data analysis
 
-Please contact me by email with your CV, transcripts, publications (if any),  motivation letter (required for Ph.D. position), and research proposal (optional).
+Please contact me by email with your CV, transcripts, publications (if any),  motivation letter (required for shortlisted Ph.D. applicants), and research proposal (optional).
 
 Research
 ======
