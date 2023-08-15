@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Ph.D. candidate at McGill University supervised by Prof. [Mathieu Blanchette](https://en.wikipedia.org/wiki/Mathieu_Blanchette_(computational_biologist)). I will join Data Science and Analytics Thrust at the Hong Kong University of Science and Technology (Guangzhou) as an assistant professor. I received my bachelor's degree from the City University of Hong Kong (2015). Prior to studying at McGill University, I worked as a research assistant (intern) at Indiana University (2013-2014), and the City University of Hong Kong (2015-2017). For more information, please check my [CV](https://github.com/zhyanlin/zhyanlin.github.io/blob/master/files/Yanlin_CV_Aug.pdf).
 
-<span style="color:red"> Openings: I have multiple [fully-funded](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) Ph.D. positions (next Fall) and research assistant/intern positions available at HKUST(GZ). </span> In particular, I am looking for students who are interested in computational biology and machine learning to work in the following directions:
+<span style="color:red"> Openings: I have multiple [fully-funded](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) Ph.D. positions (Spring/Fall) and research assistant/intern positions available at HKUST(GZ). </span> In particular, I am looking for students who are interested in computational biology and machine learning to work in the following directions:
 * Computational 3D genomics
 * Physics-informed GNN for 3D genome modelling
 * Interpretable machine learning for (epi)genome data analysis
