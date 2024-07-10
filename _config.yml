@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanlin Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Yanlin Zhang"
-description              : &description "Incoming Assistant Professor, Data Science and Analytics, HKUST(GZ)"
+description              : &description "Assistant Professor, Data Science and Analytics, HKUST(GZ)"
 url                      : https://zhyanlin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhyanlin/zhyanlin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yanlin Zhang, Ph.D."
   avatar           : "yanlinprofile.jpg"
-  bio              : "Incoming Assistant Professor,<br/> Data Science and Analytics, HKUST(GZ) <br/> Email: yanlinzhang AT hkust-gz dot edu dot cn"
+  bio              : "Assistant Professor,<br/> Data Science and Analytics, HKUST(GZ) <br/> Email: yanlinzhang AT hkust-gz dot edu dot cn"
   location         : "Guangzhou"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
