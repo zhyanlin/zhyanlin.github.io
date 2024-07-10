@@ -8,31 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. in Computer Science with a focus on computational biology and applied machine leanring. I obtained my PhD training at McGill University under the supervision of Prof. Mathieu Blanchette. I will join Data Science and Analytics Thrust at the Hong Kong University of Science and Technology (Guangzhou) as an assistant professor. I received my bachelor's degree from the City University of Hong Kong (2015). Prior to studying at McGill University, I worked as a research assistant (intern) at Indiana University (2013-2014), and the City University of Hong Kong (2015-2017). For more information, please check my [CV](https://github.com/zhyanlin/zhyanlin.github.io/blob/master/files/Yanlin_CV_Aug.pdf).
+I am an assistant professor at the Data Science and Analytics (DSA) Thrust at the Hong Kong University of Science and Technology (Guangzhou). I obtained my Ph.D. in Computer Science with a focus on computational biology and applied machine learning at McGill University under the supervision of Prof. Mathieu Blanchette. I received my bachelor's degree in Computer Science from the City University of Hong Kong. For more information, please check my [CV](https://github.com/zhyanlin/zhyanlin.github.io/blob/master/files/Yanlin_CV_Aug.pdf).
 
-<span style="color:red"> Openings: I have multiple [fully-funded](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) Ph.D. positions (Spring/Fall) and research assistant/intern positions available at HKUST(GZ). </span> In particular, I am looking for students who are interested in computational biology and machine learning to work in the following directions:
-* Computational 3D genomics
+<span style="color:red"> Openings:</span> 
+
+1. <b>PhD:</b> I have multiple [fully-funded](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) Ph.D. positions (<b>Fall 2025</b>) available at HKUST(GZ). I am particularly looking for students with a strong background in machine learning, such as LLMs, multimodal models, federated learning, etc., to work with me in the following directions:
+* Generative biology
+* Large language models
 * Data integration via multi-modal learning
-* Interpretable machine learning for (epi)genome data analysis
-* Representation learning approaches in biological data analysis
+* Computational 3D genomics
 
-If you have a degree in physics or similar programs and want to do research in computational biology and machine learning, you can also contact me to discuss possible options in the following directions:
-* 3D genome modeling (i.e., Physics-informed GNN for 3D genome modeling, etc.)
+2. <b>RA/Intern:</b>  We have openings (remote) for research assistant/intern positions focusing on topics related to AI4Biology. Please email me if you are interested in joining.
 
-Please contact me by email with your CV, transcripts, publications (if any),  motivation letter (required for shortlisted Ph.D. applicants), and research proposal (optional).
+3. <b>RBM Students:</b> If you are an RBM student who wants to work with me in computational biology, feel free to drop by my office.
+
+4. <b>Students at HKUST(GZ):</b> If you are a student at HKUST(GZ) and want to do research with me, have a quick chat, or learn about computational biology, you are welcome to drop by my office.
+
+Please contact me by email with your CV, transcripts, publications (if any), motivation letter (required for shortlisted Ph.D. applicants), and research proposal (optional).
 
 Research
 ======
-My research focuses on developing and applying computational methods (i.e., algorithmic and machine learning approaches) for interpreting complex biological data sets. This includes:
-1. Developing deep learning and statistical inference approaches to analyze and comprehend 3D genome organization.
-2. Developing and tailoring representation learning algorithms to analyze biological data sets.
-3. Developing and applying computational tools to analyze omics data (i.e., population genetics, cancer genomics, and MS/MS proteomics).
+My research focuses on developing and applying computational methods (i.e., algorithmic and machine learning approaches) for interpreting complex biological data sets. I have an increasing interest in developing large models for biology. This includes:
+
+* Developing deep learning and statistical inference approaches to analyze and comprehend DNA sequence and 3D genome organization.
+* Developing and tailoring representation learning algorithms to analyze biological data sets.
+* Developing and applying computational tools to analyze omics data (i.e., population genetics, cancer genomics, and MS/MS proteomics).
+* Developing and applying LLM and applications in bioinformatics.
+
 
 Selected Publications
 ======
-* Zhang, Yanlin, and Mathieu Blanchette. "Reference panel guided topological structure annotation of Hi-C data." Nature Communications 13.1 (2022): 7426.
-* Zhang, Yanlin, and Mathieu Blanchette. "Reference panel-guided super-resolution inference of Hi-C data." Bioinformatics 39.Supplement_1 (2023): i386-i393. (ISMB/ECCB 2023 proceedings; Accept. rate=14%)
-* Zhang, Zhe, et al. "The Tibetan-Yi region is both a corridor and a barrier for human gene flow." Cell Reports 39.4 (2022). (co-first author, cover article)
+* Zhang Yanlin, Rola Dali, and Mathieu Blanchette, "RobusTAD: Reference panel based annotation of nested topologically associating domains." Genome Biology (minor revision submitted)
+* Zhang Yanlin, and Mathieu Blanchette. "Reference panel guided topological structure annotation of Hi-C data." Nature Communications 13.1 (2022): 7426.
+* Zhang Yanlin, and Mathieu Blanchette. "Reference panel-guided super-resolution inference of Hi-C data." Bioinformatics 39.Supplement_1 (2023): i386-i393. (ISMB/ECCB 2023 proceedings; Accept. rate=14%)
+* Zhang Zhe, et al. "The Tibetan-Yi region is both a corridor and a barrier for human gene flow." Cell Reports 39.4 (2022). (co-first author, cover article)
+* Michael J. Johnston, et al. "TULIPs decorate the three-dimensional genome of PFA ependymoma", Cell 187, 1-20 (2024) 
 
 Teaching
 ======
