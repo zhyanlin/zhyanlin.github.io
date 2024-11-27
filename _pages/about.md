@@ -13,9 +13,9 @@ I am an assistant professor at the Data Science and Analytics (DSA) Thrust at th
 <span style="color:red"> Openings:</span> 
 
 1. <b>PhD:</b> I have multiple [fully-funded](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) Ph.D. positions (<b>Fall 2025</b>) available at HKUST(GZ). I am particularly looking for students with a strong background in machine learning, such as LLMs, multimodal models, federated learning, etc., to work with me in the following directions:
-* <b>Large DNA/RNA/Protein models</b>
+* <b>DNA/RNA/Protein language models</b>
 * Data integration via multi-modal learning
-* Computational 3D genomics
+* AI for Computational 3D genomics
 
 2. <b>RA/Intern:</b>  We have openings (on-campus only) for research assistant/intern positions focusing on topics related to AI4Biology. Please email me if you are interested in joining.
 
