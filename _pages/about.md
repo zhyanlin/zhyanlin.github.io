@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the Data Science and Analytics (DSA) Thrust at the Hong Kong University of Science and Technology (Guangzhou). I obtained my Ph.D. in Computer Science with a focus on computational biology and applied machine learning at McGill University under the supervision of Prof. Mathieu Blanchette. I received my bachelor's degree in Computer Science from the City University of Hong Kong. For more information, please check my [CV](https://github.com/zhyanlin/zhyanlin.github.io/blob/master/files/Yanlin_CV_Aug.pdf).
+I am an assistant professor at the Data Science and Analytics (DSA) Thrust at the Hong Kong University of Science and Technology (Guangzhou). I obtained my Ph.D. in Computer Science with a focus on computational biology and applied machine learning at McGill University under the supervision of Prof. Mathieu Blanchette. I received my bachelor's degree in Computer Science from the City University of Hong Kong.
 
 <span style="color:red"> Openings:</span> 
 
 1. <b>PhD:</b> I have multiple [fully-funded](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees) Ph.D. positions (<b>Fall 2025</b>) available at HKUST(GZ). I am particularly looking for students with a strong background in machine learning, such as LLMs, multimodal models, federated learning, etc., to work with me in the following directions:
-* Generative biology
-* Large language models
+* <b>Large DNA/RNA/Protein models</b>
 * Data integration via multi-modal learning
 * Computational 3D genomics
 
-2. <b>RA/Intern:</b>  We have openings (remote) for research assistant/intern positions focusing on topics related to AI4Biology. Please email me if you are interested in joining.
+2. <b>RA/Intern:</b>  We have openings (on-campus only) for research assistant/intern positions focusing on topics related to AI4Biology. Please email me if you are interested in joining.
 
 3. <b>RBM Students:</b> If you are an RBM student who wants to work with me in computational biology, feel free to drop by my office.
 
